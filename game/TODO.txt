@@ -1,0 +1,91 @@
+Current List:
+1.) Code:
+	a.) Remove all unused variables in GameShell GameOn
+	b.) Remove all unused variables in LevelEditor
+	c.) Remove all unused variables in Shape and all entities
+	d.) TODOs
+	e.) Verify that all code is used code, happy with all code at this point
+	
+2.) Functionality:
+	a.) Change overworld to allow for control of bossgreed and levels to be entered from 'doors'
+		-add physics to overworld
+		-add art and checks to see if you are in a level
+		-add the level name to fade in if you are hovering in a level
+		-add highstriker physics to the same overworld state
+3.) Music:
+	a.)Mess with desert wip - message brian krall
+		- continue with snow
+		- create 3- 5 new songs
+4.) Art:
+	a.)Continue with world art
+	- make hell .pxi ;_;
+	- make tower stairs -> helps with overworld...( dont force it )
+
+Always:
+1.) clean code as needed
+2.) create macros as needed
+
+
+
+
+Code:
+1.) Clean
+2.) Find a better way to toggle other than fixKeyboard()
+
+Functionality:
+1.) Change the overworld
+2.) 'making of' animation
+3.) Add sprint/boost
+4.) level design
+5.) improve level editor to put platforms in units of jumps away (show anyway)
+6.) initial level creation
+
+Story:
+1.) Finish intro cutscene
+2.) Confirm path of:
+	Tower->Forest->Water->Cave->Snow->Desert->Slums->Sewers->Tower->Hell
+3.) Snow kidnap cutscene
+4.) Hell cutscene enter
+5.) Hell cutscene end
+6.) Zen
+7.) End cutscene
+
+Aesthetics:
+1.) Make platforms 3d
+2.) Change grav flip into magnet
+3.) make real dust and real wall jump dust
+4.) make real platform break on thwomp
+5.) make bats and deads for all worlds
+6.) make flap different in the air
+7.) make coins spin
+
+Art:
+1.) sketch zen
+2.) make hell .pxi
+3.) simultaneously build worlds
+4.) Aesthetics List
+
+Music:
+1.) finish editting desert wip
+2.) continue on snow
+3.) begin neutral songs, pump out a bunch of sounds to get a nice range of ideas instead of grinding too hard
+4.) death jingle
+5.) win jingle
+6.) barker music
+7.) Sound Effects List
+
+Sound Effects:
+1.) new jump sound?
+2.) landing sound
+3.) grav sounds will be changed because of grav -> magnet
+4.) magnet buzzing sound
+5.) thwomp landing sound
+6.) water splash?
+
+
+Order of Importance:
+1.) Story
+2.) Functionality
+3.) Art & Music
+4.) Sound Effects
+5.) Code

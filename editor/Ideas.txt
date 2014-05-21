@@ -1,0 +1,6 @@
+Features
+
+Tab to go through the shapes array and select each piece at a time.
+Display the selected Shapes info on the left side (N/A if necessary).
+Use drawBorder to show the moving platform trajectory, etc.
+Once selected, you edit all the applicable booleans, etc.
